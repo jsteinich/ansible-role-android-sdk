@@ -28,7 +28,7 @@ ubuntu_precise_dependency_packages:
 
 rh_dependency_packages:
   - expect
-  - libstdc++48-4.8.3-9.111.amzn1.i686
+  - libstdc++48.i686
   - zlib.i686
 
 android_sdk_update_path: true
